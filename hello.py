@@ -9,3 +9,4 @@ else:
        factorial = factorial*i
    print("The factorial of",num,"is",factorial)
  print("The factorial of",num,"is",factorial)
+a = int(input("enter any number"))
